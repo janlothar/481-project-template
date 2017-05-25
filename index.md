@@ -1,20 +1,13 @@
 # CPSC 481 - Tutorial 01 - Group 01
 
-## Project Title
+## A Web Browser for people with Cerebral Palsy
 
-* Title
-* Team Members (names, IDs)
-* Tutorial Number and TA
+* Jan Warncke (1008477), Taylor Stemp (ID), Aaron Fisher (ID), Jordan Lee (ID)
+* T01 Kody Dillman
 
 ## Project Idea
 
-![](http://lorempixel.com/1200/300/ "Motivational image")
+Our project idea is to develop a web browser targeted specifically towards individuals afflicted with cerebral palsy. People with cerebral palsy tend to have issues with fine motor functions with widely varying degrees of severity and as such have trouble navigating many kinds of user interfaces and among them web browsers that are designed to maximize the webpage estate, making many buttons and other interactive features smaller as a result and often shoving them out of the way or hiding them behind multiple high-focus clicks (clicks that even for everyday users may require moving a mouse with high accuracy or tapping a tiny icon). This is a very functional design decision for general users but a major hindrance for those with disabilities. Our design goal is to bring the most popular features of a web browser front and center in a way that makes it easy for those with this disorder to browse the web easily and comfortably.
+ 
+We expect the system to be used as one would any other web browser; to quickly check information online or for casual browsing during free time. We expect our browser to be mostly used in homes under relaxed conditions where the user can comfortably navigate their favourite websites without feeling under pressure. This means we won’t be putting heavy emphasis on quick access to features, but rather on the ease of accessing those features without having to exert excessive concentration or focus. Of course we’d still like the user to be able to look things up quickly so some features might have a higher priority of use than others, such as bookmarks and web search, but as a whole our main goal for the system is the aforementioned ease of use over speed of use. 
 
-_[summary -- e.g. from P1]_ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum placerat ex vitae metus dapibus, vel auctor mi tincidunt. Vestibulum vitae rhoncus est. Curabitur molestie nunc in velit lobortis, mollis pellentesque lacus interdum. Aliquam consectetur malesuada dolor quis lacinia. Nullam dictum felis lectus, tincidunt auctor orci efficitur sed. In ac urna at leo pretium varius at id orci. Mauris sed tincidunt turpis, eget malesuada urna. In consectetur, purus et aliquet tincidunt, orci quam eleifend tellus, vel convallis sem odio a nunc. Pellentesque sed facilisis risus, ut rhoncus nibh. Sed ut ipsum condimentum, faucibus velit id, ornare arcu. Suspendisse at velit scelerisque, cursus ante sit amet, porttitor ipsum. Nulla eu suscipit sapien. Cras ullamcorper cursus mi. Proin blandit luctus enim, eu tincidunt libero dapibus eu. Mauris ut finibus turpis. Etiam nisi erat, malesuada ut velit quis, viverra feugiat augue.
-
-_[summary image -- sketch or picture]_
-
-![](http://lorempixel.com/550/450 "First of two kittens")
-![](http://lorempixel.com/550/450 "Second of two kittens")
-
-Vestibulum augue mauris, interdum non auctor id, cursus eget metus. Praesent laoreet arcu a ornare placerat. Donec turpis mauris, luctus eu sollicitudin eu, fringilla eget purus. Curabitur ut libero sit amet risus tempor rutrum vitae sit amet diam. Fusce efficitur dui ut purus fringilla gravida. Etiam gravida, quam eget fermentum vestibulum, dui libero scelerisque lectus, eu ornare lacus tortor at neque. Praesent volutpat pretium libero, in ornare nisi ultrices quis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse in sollicitudin nibh, quis pellentesque elit. Cras imperdiet pellentesque odio, sed hendrerit tortor vehicula sed. Etiam quis tempor erat. Sed vel leo ut magna ultrices auctor quis id risus.
