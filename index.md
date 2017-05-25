@@ -1,4 +1,4 @@
-# CPSC 481 - Tutorial [X] - Group [Y]
+# CPSC 481 - Tutorial 01 - Group 01
 
 ## Project Title
 
