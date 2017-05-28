@@ -2,7 +2,7 @@
 
 ## A Web Browser for people with Cerebral Palsy
 
-* Jan Warncke (1008477), Taylor Stemp (ID), Aaron Fisher (ID), Jordan Lee (ID)
+* Jan Warncke (1008477), Taylor Stemp (10066205), Aaron Fisher (ID), Jordan Lee (ID)
 * T01 Kody Dillman
 
 ## Project Idea
